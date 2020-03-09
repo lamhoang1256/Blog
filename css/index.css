@@ -81,9 +81,6 @@ body,html{
         padding-left:1em;
         border-bottom:1px dashed  #000;
     }
-    .menu-right li.nav-item a.nav-link{
-	font-size:1em;
-    }
 }
 
 
