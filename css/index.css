@@ -114,6 +114,7 @@ body,html{
     border:1px #FFEB3B solid;
     text-transform: uppercase;
     color:#fff !important;
+    font-family:pacifico;
 }
 .banner a.btn:hover,
 .banner a.btn:focus{
