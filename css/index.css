@@ -25,7 +25,7 @@ body,html{
 .menu-right li.nav-item a.nav-link{
     text-shadow:1px 1px 10px #000;
     color:#fff;
-    font-size:.3em;
+    font-size:.8em;
     font-weight: 500;
     text-transform: uppercase;
     text-align: center;
@@ -187,7 +187,7 @@ body,html{
     padding:2em 2em ;
 }
 .who-i-am .caption p{
-    font-size: .6em;
+    font-size: .9em;
     line-height: 1.2em;
 }
 /* end right  */
@@ -207,13 +207,13 @@ body,html{
 /* left  */
 .my-subject .caption,
 .hometown .caption{
-    font-size: .5em;
+    font-size: .9em;
     padding-top: 3.5em;
     padding-bottom:1.5em;
     position: relative;
 }
 .hometown .caption{
-    font-size:.7em;
+    font-size:.9em;
 }
 /* right  */
 .my-subject .images img,
@@ -256,7 +256,7 @@ body,html{
 }
 .chinese-chess .caption
 ,.my-school .caption{
-    font-size: .6em;
+    font-size: .9em;
     padding-top: 3.5em;
     padding-bottom:1.5em;
     position: relative;
